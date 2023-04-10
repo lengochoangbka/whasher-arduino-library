@@ -1,0 +1,6 @@
+whasher   KEYWORD1
+hot    KEYWORD2
+cyclic KEYWORD2
+Disable_all KEYWORD2
+cool KEYWORD2
+choose KEYWORD2
